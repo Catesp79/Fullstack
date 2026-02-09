@@ -1,0 +1,39 @@
+╔══════════════════╦══════════════════════════════════════════════════════════╗
+║ Periodo          ║ Eventi / Milestone                                        ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ **Gen–Mar 2026** ║ • PDSB: Continuazione / avvio attivo Fase 3              ║
+║                  ║   VERSATILE‑003 (HPV16+) – possibile attivazione siti      ║
+║                  ║   + dati interim o discussione approvazione accelerata      ║
+║                  ║   dopo modifica endpoint (PFS) richiesta alla FDA.         ║
+║                  ║   Scott ASCO abstract fine Mag–Giugno 2025 (precedente).   ║
+║                  ║   :contentReference[oaicite:0]{index=0}                      ║
+║                  ║ • Tiziana: arruolamento e progressione Phase 2 Alzheimer’s ║
+║                  ║   (foralumab intranasale) – *dati di sicurezza / early*    ║
+║                  ║   :contentReference[oaicite:1]{index=1}                                     ║
+║                  ║ • Autolus: possibili dati iniziali da studi autoimmuni *   ║
+║                  ║   lupus / MS (*no data pubblici imminenti precisi*)        ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ **Apr–Giu 2026** ║ • Tiziana: *dosi aggiuntive* e possibile enrollment       ║
+║                  ║   completato in Phase 2 Alzheimer’s                        ║
+║                  ║ • PDSB: presentazioni dati preliminari a conferenze (ASCO)  ║
+║                  ║   o poster dati immunogenici                                 ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ **Lug–Set 2026** ║ • PDSB: dati di arruolamento ruolo PFS & *first readout*   ║
+║                  ║ • ProQR: *dati di studi clinici existenti / readouts*      ║
+║                  ║   (AX‑0810 + altri) – possibili aggiornamenti dati         ║
+║                  ║   (dipende da disclosure schedulata di studi).             ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ **Ott–Dic 2026** ║ • PDSB: possibile primo readout significativi dallo        ║
+║                  ║   studio Versamune® HPV in Fase 3 o analisi interim         ║
+║                  ║ • Tiziana: *endpoint principali di sicurezza / early AD*   ║
+║                  ║   disponibili (trial Alzheimer’s + ALS MyMatch program)     ║
+║                  ║   :contentReference[oaicite:2]{index=2}                                     ║
+║                  ║ • Autolus: aggiornamenti dati commerciali *obe‑cel*         ║
+║                  ║   + pipeline CAR‑T in Fase 1 / 2 (pediatrico AL) possibile  ║
+║                  ║   disclosures (non specifici & dipendenti congressi).       ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ **Inizio 2027**  ║ • PDSB: **dati finali (o più maturi)** dal trial Fase 3    ║
+║                  ║   + potenziali meeting regolatori                            ║
+║                  ║ • ProQR: annunci midterm di studi *Phase 2/3*               ║
+║                  ║ • Autolus: possibili dati da studi *MS / SLE / CAR‑T solidi* ║
+╚══════════════════╩══════════════════════════════════════════════════════════╝
